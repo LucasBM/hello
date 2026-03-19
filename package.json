@@ -1,0 +1,19 @@
+{
+  "name": "@lucasbertoloto/hello",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "say"
+  ],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0",
+  "dependencies": {
+    "pnpm": "^10.32.1"
+  }
+}
